@@ -2,7 +2,7 @@
 
 ## 🚀 Transforming Data into Strategic Insights
 
-I'm a passionate **Data Analyst & Engineer** who loves turning complex datasets into actionable business intelligence. With 5+ years of experience across fintech, consulting, and remote teams, I specialize in building scalable data solutions that drive real business impact.
+I'm a passionate **Data Analyst & Engineer** who loves turning complex datasets into actionable business intelligence. With 4+ years of experience across fintech, consulting, and remote teams, I specialize in building scalable data solutions that drive real business impact.
 
 ### 🔥 What I Do Best
 - 📊 **Dashboard Wizardry**: Creating interactive Power BI dashboards that tell compelling data stories
@@ -28,12 +28,12 @@ I'm a passionate **Data Analyst & Engineer** who loves turning complex datasets 
 - 🏗️ Data Warehousing & Modeling
 
 ### 🎯 Current Focus
-- 🔭 Working remotely as a **Data Analyst** at TechDrive Limited UK
+- 🔭 Working remotely as a **Data Engineer** at TechDrive Limited UK
 - 🌱 Recently completed **MSc Business Analytics** from University of Dundee
 - 💡 Building end-to-end data solutions that bridge business needs with technical excellence
 
 ### 📈 Professional Highlights
-- **5+ Years** in data engineering and analytics
+- **4+ Years** in data engineering and analytics
 - **75% Reduction** in manual processes through automation
 - **Cross-industry Experience**: Banking (Access Bank PLC), Consulting, Tech
 - **End-to-end Expertise**: From data extraction to executive dashboards
